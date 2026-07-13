@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://testpilot-ai.com/sitemap.xml
