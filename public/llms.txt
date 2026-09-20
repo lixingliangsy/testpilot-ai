@@ -1,0 +1,44 @@
+# TestPilot - llms.txt
+
+> LLM-readable manifest following the https://llmstxt.org spec. What we are, who we serve, what we do, and how we price it — in plain text for AI agents and answer engines.
+
+## Name & positioning
+- Product name: TestPilot
+- Tagline: Regression-test your LLM app before every ship.
+- Domain: https://testpilot-ai.lxsaihub.com/
+- Language: English (en)
+
+## What it does
+- Paste a prompt and expected behavior; get an eval checklist and version regression guard. For dev and QA teams shipping LLM-powered product features.
+- Regression suites
+- Safety checks
+- CI integration
+- Version compare
+
+## Pricing (USD)
+- **Free** — $0 — 50 eval runs/mo
+- **Pro** — $49/mo — 5k runs, regression suites
+- **Team** — $99/mo — Unlimited, CI, seats
+- Checkout: https://testpilot-ai.lxsaihub.com/api/checkout?cycle=monthly (monthly) / https://testpilot-ai.lxsaihub.com/api/checkout?cycle=yearly (yearly)
+
+## FAQ (high-signal Q&A for AI citation)
+Q1. What is TestPilot?
+A1. Paste a prompt and expected behavior; get an eval checklist and version regression guard. For dev and QA teams shipping LLM-powered product features.
+Q2. Do I need an API key?
+A2. No. The platform key runs the engine; Enterprise offers BYOK.
+Q3. How is my data used?
+A3. Only to produce your eval report. We do not train public models on it without consent.
+Q4. Can I export the result?
+A4. Yes — JSON download and clipboard on every plan.
+
+## Key pages
+- Home / landing: https://testpilot-ai.lxsaihub.com/
+- This manifest: https://testpilot-ai.lxsaihub.com/llms.txt
+
+## Integration & delivery
+- Web app (Next.js) deployed on Vercel
+- Payments via Waffo Pancake (merchant of record)
+- Analytics via Umami
+
+## Contact
+- Open the app: https://testpilot-ai.lxsaihub.com/
